@@ -1,0 +1,13 @@
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/runner/CMakeFiles/cloudocz.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/plugins/rive_common/CMakeFiles/rive_common_plugin.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/plugins/rive_common/CMakeFiles/INSTALL.dir
+C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/plugins/rive_common/CMakeFiles/ALL_BUILD.dir

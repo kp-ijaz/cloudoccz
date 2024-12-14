@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\naser\OneDrive\Desktop\Brocamp\Cloudocz machine task\cloudocz\build\windows\x64\CMakeFiles\6608a2b663bf8333aca115a3993dfdbc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BB6897E5-BB5C-3541-B881-4103B04E9257}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

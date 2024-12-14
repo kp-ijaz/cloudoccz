@@ -1,0 +1,10 @@
+^C:\USERS\NASER\ONEDRIVE\DESKTOP\BROCAMP\CLOUDOCZ MACHINE TASK\CLOUDOCZ\BUILD\WINDOWS\X64\CMAKEFILES\6608A2B663BF8333ACA115A3993DFDBC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/windows" "-BC:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/naser/OneDrive/Desktop/Brocamp/Cloudocz machine task/cloudocz/build/windows/x64/cloudocz.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
